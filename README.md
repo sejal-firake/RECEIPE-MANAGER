@@ -1,4 +1,6 @@
-RECEIPE PYTHON-DJANGO
+RECEIPE Manager
+
+
 A brief description of what this project does and who it's for
 
 Description
