@@ -25,3 +25,9 @@ SQLite: As the database for storing user and receipe information (default databa
 
 ![image](https://github.com/user-attachments/assets/58d1964c-842b-4905-ac9e-e2d19899f396)
 
+![image](https://github.com/user-attachments/assets/29546eed-9194-4eaa-a003-64be4e4e7c3a)
+
+![image](https://github.com/user-attachments/assets/e750249d-b532-4cfd-9357-dcfd0ab58a06)
+
+
+
