@@ -22,3 +22,6 @@ CSS: For styling the web pages.
 Python: As the programming language for backend development. 
 Django: As the web framework for building the application. 
 SQLite: As the database for storing user and receipe information (default database for Django).
+
+![image](https://github.com/user-attachments/assets/58d1964c-842b-4905-ac9e-e2d19899f396)
+
